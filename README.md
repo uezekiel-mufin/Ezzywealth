@@ -1,4 +1,7 @@
-### Hi there 👋, I'm Ezekiel Udiomuno
+### Hi there 👋, 
+I'm Ezekiel Udiomuno
+
+
 
 # 💫 About Me:
 I'm looking to collaborate on open-source projects<br>I'm currently learning Ruby on Rails<br>Ask me about ReactJS and NextJS<br>I love making new connections and I love football
@@ -17,14 +20,8 @@ I'm looking to collaborate on open-source projects<br>I'm currently learning Rub
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Ezzywealth&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=https://www.twitter.com/Ezzywealth)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Ezzywealth&icon=0&color=0)](https://visitcount.itsvg.in)
