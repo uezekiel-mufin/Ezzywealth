@@ -1,5 +1,4 @@
-### Hi there 👋, 
-I'm Ezekiel Udiomuno
+### Hi there 👋, I'm Ezekiel Udiomuno
 
 
 
