@@ -3,7 +3,12 @@
 
 
 # 💫 About Me:
-I'm looking to collaborate on open-source projects<br>I'm currently learning Ruby on Rails<br>Ask me about ReactJS and NextJS<br>I love making new connections and I love football
+- 🔭 I’m currently working on a Visa Query App with ChatGPT API
+- 🌱 I’m currently learning Blockchain Technology
+- 👯 I’m looking to collaborate on JavaScript, React, Ruby on Rails and NextJS projects.
+- 💬 Ask me about Web Development
+- 📫 How to reach me: [LinkedIn](https://linked.com/in/ezekiel-udiomuno) [Twitter](https://www.twitter.com/EzzyWealth)
+- ⚡ Fun fact: I love Football and I recently developed an interest in Snooker.
 
 
 ## 🌐 Socials:
