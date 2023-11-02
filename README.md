@@ -1,10 +1,10 @@
-## Hi there 👋, I'm Ezekiel Udiomuno
+# Hi there 👋, I'm Ezekiel Udiomuno
 
 
 
 # 💫 About Me:
-- 🔭 I’m currently working on a Visa Query App with ChatGPT API
-- 🌱 I’m currently learning Blockchain Technology
+- 🔭 I’m currently working on improving my open source contribution status
+- 🌱 I’m currently learning Mobile App development with React Native
 - 👯 I’m looking to collaborate on JavaScript, React, Ruby on Rails and NextJS projects.
 - 💬 Ask me about Web Development
 - 📫 How to reach me: [LinkedIn](https://linked.com/in/ezekiel-udiomuno) [Twitter](https://www.twitter.com/EzzyWealth)
